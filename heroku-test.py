@@ -1,3 +1,3 @@
 print("hello world")
 
-rty
+rtypip freeze > requirements.txt
