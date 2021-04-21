@@ -1,3 +1,6 @@
-print("hello world")
 
-rtypip freeze > requirements.txt
+
+
+
+#pip freeze > requirements.txt
+
