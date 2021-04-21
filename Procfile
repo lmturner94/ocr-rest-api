@@ -1,1 +1,1 @@
-worker: heroku-test.py
+web: gunicorn app:app
